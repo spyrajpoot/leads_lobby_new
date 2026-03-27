@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "leizongmin.node-module-intellisense"
+    ]
+}
